@@ -1,0 +1,17 @@
+.firstline div div {
+	background-color: yellow;
+	margin-bottom: 15px;
+}
+
+.row div {
+	height: 35px;
+	margin-bottom: 15px;
+}
+
+.secondline div div {
+	background-color: blue;
+}
+
+.thirdline div div {
+	background-color: red;
+}
