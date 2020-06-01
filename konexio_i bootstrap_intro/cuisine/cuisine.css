@@ -1,0 +1,24 @@
+.header img {
+	height: 400px;
+	width: 1600px;
+}
+
+.nav {
+	background-color: black;
+}
+
+.parte {
+	justify-content: center;
+}
+
+.img1 img {
+	width: 100%;
+}
+
+.img2 img {
+	width: 100%;
+}
+
+.img3 img {
+	width: 100%;
+}
