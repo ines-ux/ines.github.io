@@ -1,0 +1,158 @@
+.header img {
+	height: 200px;
+	width: 160px;
+	filter: opacity(80%);
+}
+
+.navbar {
+	color: #000;
+	color: white;
+}
+.nav-items {
+	color: white;
+}
+
+.bg-opacity {
+	background: #00000086 !important;
+}
+
+.header {
+	background-image: url('suzette-header.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 50vh;
+}
+
+.header-content {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.719);
+	color: #fff;
+}
+
+.header h1 {
+	background-color: black;
+	font-family: 'Courgette', cursive;
+	color: white;
+}
+
+.col-9 h2 {
+	font-family: 'Courgette', cursive;
+}
+
+.col-9 p {
+	font-family: 'Oswald', sans-serif;
+}
+footer {
+	background-color: black;
+}
+.final .row {
+	color: white;
+}
+
+ul {
+	color: white;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer .row a {
+	color: white;
+	list-style: none;
+}
+.icone img {
+	color: white;
+}
+.icone i {
+	padding: 3px 5px 3px 5px;
+}
+
+.final ul {
+	list-style: none;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+.col-4 h2 {
+	display: flex;
+	text-align: center;
+	font-family: 'courgette', cursive;
+}
+
+.col-4 p {
+	font-family: 'oswald', sans-serif;
+}
+.row .col-4 h3 {
+	font-family: 'courgette', cursive;
+}
+
+.logo img {
+	justify-content: right;
+	height: 10px;
+	width: 10px;
+}
+.formulaire h6 {
+	justify-content: left;
+	margin-top: 10px;
+}
+.col-9 h2 {
+	text-align: left;
+}
+.col-3 img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.col-3 img {
+	text-align: center;
+}
+.cinq .logo img {
+	width: 20px;
+	height: 20px;
+}
+
+.cinq h6 {
+	margin-top: 10px;
+}
+
+.form-group3 {
+	height: 150px;
+}
+
+.col-6 img {
+	float: left;
+	height: 100px;
+}
+
+.col-6 p {
+	clear: right;
+}
+
+.col-10 h2 {
+	text-align: left;
+}
+.col-10 p {
+	font-family: 'Oswald', sans-serif;
+}
+.col-10 h2 {
+	font-family: 'Courgette', cursive;
+}
+
+.photo img {
+	width: 70px;
+	border-radius: 50%;
+}
+
+.col-10 h3 {
+	font-family: 'Courgette', 'cursive';
+}
+
+.col-10 p {
+	font-family: 'Oswald', 'sans-serif';
+}

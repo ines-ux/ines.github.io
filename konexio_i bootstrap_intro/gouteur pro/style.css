@@ -1,0 +1,153 @@
+.header img {
+	height: 200px;
+	width: 160px;
+	filter: opacity(80%);
+}
+
+.parte {
+	justify-content: center;
+}
+
+.img1 img {
+	width: 70%;
+}
+
+.img2 img {
+	width: 70%;
+}
+
+.img3 img {
+	width: 70%;
+}
+
+.navbar {
+	color: #000;
+	color: white;
+}
+
+.header {
+	background-image: url('team.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 50vh;
+}
+
+.header-content {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.719);
+	color: #fff;
+}
+
+footer {
+	background-color: black;
+}
+
+.final .row {
+	color: white;
+}
+
+ul {
+	color: white;
+}
+
+h2 {
+	text-align: center;
+}
+.formulaire {
+	/* width: 100px;
+	height: 200px; */
+	text-align: right;
+}
+
+.nav-items {
+	color: white;
+}
+
+.logo img {
+	justify-content: right;
+	height: 20px;
+	width: 20px;
+}
+.formulaire h6 {
+	justify-content: left;
+}
+
+.row h3 {
+	font-family: 'Courgette', cursive;
+}
+.row p {
+	font-family: 'oswald', sans-serif;
+}
+
+.bg-opacity {
+	background-color: #00000086 !important;
+}
+
+.secondpart .row h2 {
+	font-family: 'Courgette', cursive;
+}
+.header h2 {
+	font-family: 'courgette', cursive;
+}
+
+.navbar a {
+	font-family: 'courgette', cursive;
+}
+.row h2 {
+	font-family: 'oswald', sans-serif;
+}
+
+.formulaire {
+	text-align: left;
+}
+.formulaire form .btn {
+	display: block !important;
+}
+footer .row a {
+	color: white;
+	list-style: none;
+}
+
+.icones img {
+	color: white;
+}
+
+.col-3 h6 {
+	font-family: 'courgette', cursive;
+}
+
+.header h1 {
+	font-family: 'courgette', cursive;
+}
+
+.formulaire button {
+	height: 40px;
+	width: 200px;
+}
+.final ul {
+	list-style: none;
+}
+
+.icones i {
+	padding: 3px 5px 3px 5px;
+}
+
+.button {
+	height: 45px;
+	width: 200px;
+}
+
+.container img {
+	width: 50px;
+}
+
+.row {
+	margin-top: 20px;
+}
+
+.col-10 img {
+	float: left;
+	width: 90px;
+}

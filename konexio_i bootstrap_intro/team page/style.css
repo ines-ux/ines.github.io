@@ -1,0 +1,92 @@
+.header {
+	background-image: url('team.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 80vh;
+}
+
+.header-content {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.719);
+	color: #fff;
+}
+.navbar {
+	color: #000;
+	color: white;
+}
+.nav-items {
+	color: white;
+}
+.bg-opacity {
+	background-color: #00000086 !important;
+}
+.header h2 {
+	font-family: 'courgette', cursive;
+}
+.navbar a {
+	font-family: 'courgette', cursive;
+}
+.header h1 {
+	font-family: 'courgette', cursive;
+}
+
+.col-4 img {
+	width: 70px;
+	border-radius: 50%;
+	text-align: center;
+	padding: 0px 10px;
+	margin-top: 10px;
+}
+
+footer {
+	background-color: black;
+}
+.final .row {
+	color: white;
+}
+
+ul {
+	color: white;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer .row a {
+	color: white;
+	list-style: none;
+}
+.icone img {
+	color: white;
+}
+.icone i {
+	padding: 3px 5px 3px 5px;
+}
+
+.final ul {
+	list-style: none;
+}
+/* .row h3 */
+.container {
+	margin-top: 20px;
+}
+
+.col-4 h2 {
+	display: flex;
+	text-align: center;
+	font-family: 'courgette', cursive;
+}
+
+.col-4 p {
+	font-family: 'oswald', sans-serif;
+}
+.row .col-4 h3 {
+	font-family: 'courgette', cursive;
+}
+
+.logo img {
+	width: 18px;
+}
